@@ -3,7 +3,7 @@
     text-align: center;
 }
 
-@media (max-width: 458px) {
+@media (max-width: 470px) {
     .grada-subtitle {
         width: 70px;
         word-break: normal;
