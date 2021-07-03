@@ -1,0 +1,11 @@
+.grada-subtitle {
+    font-size: 16px;
+    text-align: center;
+}
+
+@media (max-width: 458px) {
+    .grada-subtitle {
+        width: 70px;
+        word-break: normal;
+    }
+}
